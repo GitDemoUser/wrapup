@@ -5,6 +5,7 @@
 *.gz
 *.zip
 *.jar
+*.scala
 
 log/
 bin/
