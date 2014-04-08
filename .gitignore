@@ -1,7 +1,6 @@
 #Ignore some file types be default
 *.tmp
 *.php
-!index.php
 *.gz
 *.zip
 *.jar
