@@ -7,6 +7,8 @@
 *.jar
 
 log/
+bin/
+
 assets/*.jpg
 .*
 !.gitignore
